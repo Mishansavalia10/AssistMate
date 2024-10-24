@@ -3,6 +3,8 @@ This is chat bot for helping anyone in auto replying user's replies.
 
 
 Please find Screnshots below:
+
+
 <img src="https://github.com/user-attachments/assets/9b23e27a-a1e0-4076-8026-a8a9289c0829" width="200" />
 <img src="https://github.com/user-attachments/assets/3680b3de-eb40-4326-a532-391d99a5cfd6" width="200" />
 <img src="https://github.com/user-attachments/assets/ec928ba3-0fc4-4b9f-b821-d276e962db33" width="200" />
